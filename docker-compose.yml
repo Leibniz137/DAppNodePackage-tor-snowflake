@@ -3,4 +3,5 @@ services:
   tor-snowflake.public.dappnode.eth:
     build: .
     image: "tor-snowflake.public.dappnode.eth:0.1.0"
+    network_mode: host
     restart: unless-stopped
