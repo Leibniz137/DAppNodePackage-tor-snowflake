@@ -1,5 +1,1 @@
-FROM busybox
-
-WORKDIR /usr/src/app
-
-ENTRYPOINT echo "happy buidl $USERNAME!"
+FROM thetorproject/snowflake-proxy:1.3
