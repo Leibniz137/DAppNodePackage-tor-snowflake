@@ -1,0 +1,6 @@
+version: "3.4"
+services:
+  tor-snowflake.public.dappnode.eth:
+    build: .
+    image: "tor-snowflake.public.dappnode.eth:0.1.0"
+    restart: unless-stopped

@@ -1,0 +1,12 @@
+{
+  "name": "tor-snowflake.public.dappnode.eth",
+  "version": "0.1.0",
+  "description": "A standalone Snowflake proxy on a server to help censored users connect to the Tor network.",
+  "type": "service",
+  "author": "thenateway",
+  "categories": ["Developer tools"],
+  "links": {
+    "homepage": "https://your-project-homepage-or-docs.io"
+  },
+  "license": "GLP-3.0"
+}
